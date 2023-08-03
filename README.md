@@ -1,2 +1,3 @@
 # de_cero_a_devops
-    Mi mero mole
+El curso mas mero mole
+By Jose Avila and Fernando Alcantar
